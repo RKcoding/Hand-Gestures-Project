@@ -1,0 +1,31 @@
+body {
+    background-color: plum;
+}
+
+#webcam {
+    height: 300px;
+    width: 300px;
+    border: solid;
+    border-color: black;
+}
+
+#image {
+    height: 300px;
+    width: 300px;
+    border: solid;
+    border-color: black;
+}
+
+#hand_gesture_name {
+    height: 25px;
+    width: 80px;
+    border: solid;
+    border-color: black;
+}
+
+#hand_gesture_icon {
+    height: 25px;
+    width: 50px;
+    border: solid;
+    border-color: black;
+}
